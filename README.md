@@ -24,13 +24,11 @@ Les pages à maquetter sont :
         catégorie.
 
    - la page « Historique » affiche
-        - La liste des mouvements de stock en ordre chronologique avec pour chaque mouvement :
-         - l'article (liste d'options)
-         - la quantité
-         - la date et l'heure
-         - le type de mouvement de stock (liste d'options)
-         - un bouton « valider »
-         - un bouton « annuler »
+        La liste des mouvements de stock en ordre chronologique avec pour chaque mouvement :
+      	- l'article
+        - la quantité
+        - la date et l'heure
+        - le type de mouvement de stock
 
    - la page « Saisie de mouvement »
         Un formulaire qui contient les éléments suivants :
@@ -48,7 +46,7 @@ Les pages à maquetter sont :
           pour supprimer l'article
         - un bouton pour créer un nouvel article
 
-   - une page pour modifier un article existant
+   - une page pour ajouter ou modifier un article existant
         - un formulaire qui couvre toutes les colonnes de la table (sauf
           l'ID) :
          - le nom de l'article
