@@ -47,12 +47,11 @@ Les pages à maquetter sont :
         - un bouton pour créer un nouvel article
 
    - une page pour ajouter ou modifier un article existant
-        - un formulaire qui couvre toutes les colonnes de la table (sauf
-          l'ID) :
-         - le nom de l'article
-         - la catégorie (liste d'options)
-         - l'unité de mesure (liste d'options)
-         - le prix de vente
-         - un bouton « valider »
-         - un bouton « annuler »
+     un formulaire qui couvre toutes les colonnes de la table (sauf l'ID) :
+       - le nom de l'article
+        - la catégorie (liste d'options)
+        - l'unité de mesure (liste d'options)
+        - le prix de vente
+        - un bouton « valider »
+        - un bouton « annuler »
           
